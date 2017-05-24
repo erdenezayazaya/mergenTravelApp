@@ -18,7 +18,7 @@ $(document).ready(function(){
 		getPostData();
 		
 		/* Disabled for temporary */
-		//notificationLogic();
+		notificationLogic();
 
 		function bellClick()
 		{

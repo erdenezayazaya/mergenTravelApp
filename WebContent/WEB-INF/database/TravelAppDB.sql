@@ -104,7 +104,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'zaya23','male2','IA2','Fairfield2',NULL,'52557','19912','zaya@yahoo.com','zaya');
+INSERT INTO `users` VALUES (0,'zaya23','male2','IA2','Fairfield2',NULL,'52557','19912','zaya@yahoo.com','zaya');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
